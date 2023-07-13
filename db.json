@@ -1,0 +1,1070 @@
+[
+    {
+        "name": "III Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi im. Marii D\u0105browskiej w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "I A  ( matematyka, informatyka, j\u0119zyk angielski)",
+                "miejsca": 30,
+                "Pwybor": 40,
+                "Nwybor": 362
+            },
+            {
+                "oddzial": "I B (matematyka, fizyka, j\u0119zyk angielski)",
+                "miejsca": 30,
+                "Pwybor": 35,
+                "Nwybor": 345
+            },
+            {
+                "oddzial": "I C (j\u0119zyk polski, historia, j\u0119zyk angielski)",
+                "miejsca": 30,
+                "Pwybor": 26,
+                "Nwybor": 314
+            },
+            {
+                "oddzial": "I D dwuj\u0119zyczny (matematyka, geografia, j\u0119zyk angielski). ",
+                "miejsca": 30,
+                "Pwybor": 25,
+                "Nwybor": 111
+            },
+            {
+                "oddzial": "I E (biologia, chemia, j\u0119zyk angielski)",
+                "miejsca": 30,
+                "Pwybor": 57,
+                "Nwybor": 469
+            },
+            {
+                "oddzial": "I F (biologia, chemia, matematyka)",
+                "miejsca": 30,
+                "Pwybor": 42,
+                "Nwybor": 409
+            },
+            {
+                "oddzial": "I G (j\u0119zyk polski, biologia, j\u0119zyk angielski)",
+                "miejsca": 30,
+                "Pwybor": 49,
+                "Nwybor": 410
+            },
+            {
+                "oddzial": "I H (geografia, wiedza o spo\u0142ecze\u0144stwie, j\u0119zyk angielski)",
+                "miejsca": 30,
+                "Pwybor": 20,
+                "Nwybor": 370
+            }
+        ]
+    },
+    {
+        "name": "IV Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Integracyjnymi im. Boles\u0142awa Krzywoustego w P\u0142ocku w ZS nr 1",
+        "classes": [
+            {
+                "oddzial": "I A ",
+                "miejsca": 30,
+                "Pwybor": 21,
+                "Nwybor": 248
+            },
+            {
+                "oddzial": "I B",
+                "miejsca": 30,
+                "Pwybor": 21,
+                "Nwybor": 227
+            },
+            {
+                "oddzial": "I C",
+                "miejsca": 30,
+                "Pwybor": 1,
+                "Nwybor": 133
+            },
+            {
+                "oddzial": "I D",
+                "miejsca": 30,
+                "Pwybor": 11,
+                "Nwybor": 167
+            }
+        ]
+    },
+    {
+        "name": "VII Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Aleksandra Macieszy w P\u0142ocku w ZS nr 5",
+        "classes": [
+            {
+                "oddzial": "I LA - PSYCHOLOGICZNO \u2013 PEDAGOGICZNA",
+                "miejsca": 30,
+                "Pwybor": 63,
+                "Nwybor": 252
+            },
+            {
+                "oddzial": "I LB - GAMINGOWA",
+                "miejsca": 30,
+                "Pwybor": 13,
+                "Nwybor": 152
+            },
+            {
+                "oddzial": "I LC \u2013 SPO\u0141ECZNO-MEDIALNA",
+                "miejsca": 30,
+                "Pwybor": 20,
+                "Nwybor": 219
+            }
+        ]
+    },
+    {
+        "name": "V Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Centrum Edukacji im. Ignacego \u0141ukasiewicza",
+        "classes": [
+            {
+                "oddzial": "1A",
+                "miejsca": 28,
+                "Pwybor": 71,
+                "Nwybor": 499
+            },
+            {
+                "oddzial": "1B",
+                "miejsca": 28,
+                "Pwybor": 64,
+                "Nwybor": 531
+            },
+            {
+                "oddzial": "1C",
+                "miejsca": 28,
+                "Pwybor": 118,
+                "Nwybor": 536
+            },
+            {
+                "oddzial": "1D",
+                "miejsca": 28,
+                "Pwybor": 70,
+                "Nwybor": 515
+            }
+        ]
+    },
+    {
+        "name": "AKADEMICKIE LICEUM OG\u00d3LNOKSZTA\u0141C\u0104CE PRZY AKADEMII MAZOWIECKIEJ W P\u0141OCKU",
+        "classes": [
+            {
+                "oddzial": "A Humanistyczno - Prawna",
+                "miejsca": 22,
+                "Pwybor": 29,
+                "Nwybor": 326
+            },
+            {
+                "oddzial": "B Humanistyczno - Teatralna",
+                "miejsca": 22,
+                "Pwybor": 20,
+                "Nwybor": 300
+            },
+            {
+                "oddzial": "C Biologiczno-Chemiczna",
+                "miejsca": 22,
+                "Pwybor": 29,
+                "Nwybor": 330
+            },
+            {
+                "oddzial": "D Cybermat",
+                "miejsca": 22,
+                "Pwybor": 22,
+                "Nwybor": 200
+            },
+            {
+                "oddzial": "E Lingwistyczna",
+                "miejsca": 44,
+                "Pwybor": 45,
+                "Nwybor": 302
+            },
+            {
+                "oddzial": "F Psychologiczno - Spo\u0142eczna",
+                "miejsca": 44,
+                "Pwybor": 53,
+                "Nwybor": 436
+            }
+        ]
+    },
+    {
+        "name": "KATOLICKIE LICEUM OG\u00d3LNOKSZTA\u0141C\u0104CE IM. \u015aW. STANIS\u0141AWA KOSTKI W P\u0141OCKU",
+        "classes": [
+            {
+                "oddzial": "rozszerzenie biologia, chemia, j\u0119zyk angielski",
+                "miejsca": 12,
+                "Pwybor": 9,
+                "Nwybor": 65
+            },
+            {
+                "oddzial": "rozszerzenie biologia, j\u0119zyk polski, j\u0119zyk angielski",
+                "miejsca": 12,
+                "Pwybor": 7,
+                "Nwybor": 89
+            },
+            {
+                "oddzial": "rozszerzenie geografia, j\u0119zyk angielski, j\u0119zyk w\u0142oski",
+                "miejsca": 12,
+                "Pwybor": 8,
+                "Nwybor": 57
+            },
+            {
+                "oddzial": "rozszerzenie j\u0119zyk polski, historia, j\u0119zyk angielski",
+                "miejsca": 12,
+                "Pwybor": 7,
+                "Nwybor": 77
+            },
+            {
+                "oddzial": "rozszerzenie j\u0119zyk polski, wiedza o spo\u0142ecze\u0144stwie, j\u0119zyk angielski",
+                "miejsca": 12,
+                "Pwybor": 4,
+                "Nwybor": 79
+            },
+            {
+                "oddzial": "rozszerzenie matematyka, geografia, j\u0119zyk angielski",
+                "miejsca": 12,
+                "Pwybor": 8,
+                "Nwybor": 61
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marsza\u0142ka Stanis\u0142awa Ma\u0142achowskiego w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "1A (biologia, chemia, matematyka)",
+                "miejsca": 30,
+                "Pwybor": 48,
+                "Nwybor": 272
+            },
+            {
+                "oddzial": "1B (matematyka, chemia, angielski)) innowacja - laboratorium chemiczne",
+                "miejsca": 30,
+                "Pwybor": 29,
+                "Nwybor": 279
+            },
+            {
+                "oddzial": "1C (matematyka, geografia, angielski), dodatkowo edukacja ekonomiczna, klasa patronacka SGH",
+                "miejsca": 30,
+                "Pwybor": 38,
+                "Nwybor": 270
+            },
+            {
+                "oddzial": "1D (matematyka, fizyka) - innowacja,  klasa patronacka PW",
+                "miejsca": 30,
+                "Pwybor": 28,
+                "Nwybor": 233
+            },
+            {
+                "oddzial": "1E (polski, historia lub WOS)",
+                "miejsca": 30,
+                "Pwybor": 27,
+                "Nwybor": 211
+            },
+            {
+                "oddzial": "1F (biologia, chemia, angielski), dodatkowo elementy psychologii",
+                "miejsca": 30,
+                "Pwybor": 53,
+                "Nwybor": 293
+            },
+            {
+                "oddzial": "1G (matematyka, fizyka, informatyka) innowacja - pracownia astronomiczno-fizyczna",
+                "miejsca": 30,
+                "Pwybor": 28,
+                "Nwybor": 209
+            },
+            {
+                "oddzial": "1H (polski, biologia, angielski)",
+                "miejsca": 30,
+                "Pwybor": 23,
+                "Nwybor": 278
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi im. W\u0142adys\u0142awa Jagie\u0142\u0142y w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "1A HORACY j\u0119zyk polski, historia, j\u0119zyk angielski",
+                "miejsca": 30,
+                "Pwybor": 33,
+                "Nwybor": 335
+            },
+            {
+                "oddzial": "1B REJ j\u0119zyk polski, geografia lub WOS, j\u0119zyk angielski",
+                "miejsca": 30,
+                "Pwybor": 57,
+                "Nwybor": 359
+            },
+            {
+                "oddzial": "1C HIPOKRATES biologia, chemia, j\u0119zyk angielski",
+                "miejsca": 30,
+                "Pwybor": 74,
+                "Nwybor": 415
+            },
+            {
+                "oddzial": "1D DARWIN dwuj\u0119zyczna - biologia, chemia",
+                "miejsca": 30,
+                "Pwybor": 27,
+                "Nwybor": 110
+            },
+            {
+                "oddzial": "1E PITAGORAS matematyka, geografia, j\u0119zyk angielski",
+                "miejsca": 30,
+                "Pwybor": 74,
+                "Nwybor": 443
+            },
+            {
+                "oddzial": "1F NEWTON matematyka, fizyka",
+                "miejsca": 30,
+                "Pwybor": 29,
+                "Nwybor": 346
+            },
+            {
+                "oddzial": "1G DA VINCI DWUJ\u0118ZYCZNA - PRE-IB dwuj\u0119zyczna - matematyka, j\u0119zyk polski",
+                "miejsca": 30,
+                "Pwybor": 57,
+                "Nwybor": 47
+            },
+            {
+                "oddzial": "1H ARCHIMEDES matematyka, informatyka, j\u0119zyk angielski",
+                "miejsca": 30,
+                "Pwybor": 44,
+                "Nwybor": 351
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce nr 6 Szko\u0142a Mistrzostwa Sportowego w ZST w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "1LO - pi\u0142ka no\u017cna",
+                "miejsca": 48,
+                "Pwybor": 56,
+                "Nwybor": 11
+            },
+            {
+                "oddzial": "1LO - pi\u0142ka r\u0119czna",
+                "miejsca": 24,
+                "Pwybor": 15,
+                "Nwybor": 15
+            },
+            {
+                "oddzial": "1LO - SMS w wio\u015blarstwie",
+                "miejsca": 20,
+                "Pwybor": 14,
+                "Nwybor": 6
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce (ZS im. Leokadii Bergerowej)",
+        "classes": [
+            {
+                "oddzial": "Liceum Og\u00f3lnokszta\u0142c\u0105ce- klasa psychologiczno- pedagogiczna",
+                "miejsca": 30,
+                "Pwybor": 14,
+                "Nwybor": 34
+            }
+        ]
+    },
+    {
+        "name": "Technikum w Zespole Szk\u00f3\u0142 Centrum Edukacji im. Ignacego \u0141ukasiewicza",
+        "classes": [
+            {
+                "oddzial": "1Ta | 1Tb",
+                "miejsca": 56,
+                "Pwybor": 112,
+                "Nwybor": 158
+            }
+        ]
+    },
+    {
+        "name": "Technikum (ZS im. Leokadii Bergerowej)",
+        "classes": [
+            {
+                "oddzial": "technik architektury krajobrazu",
+                "miejsca": 25,
+                "Pwybor": 2,
+                "Nwybor": 36
+            },
+            {
+                "oddzial": "technik hotelarstwa",
+                "miejsca": 25,
+                "Pwybor": 5,
+                "Nwybor": 30
+            },
+            {
+                "oddzial": "technik informatyk",
+                "miejsca": 25,
+                "Pwybor": 8,
+                "Nwybor": 32
+            },
+            {
+                "oddzial": "technik logistyk",
+                "miejsca": 25,
+                "Pwybor": 3,
+                "Nwybor": 34
+            },
+            {
+                "oddzial": "technik rolnik",
+                "miejsca": 25,
+                "Pwybor": 6,
+                "Nwybor": 16
+            },
+            {
+                "oddzial": "technik spedytor",
+                "miejsca": 25,
+                "Pwybor": 1,
+                "Nwybor": 25
+            },
+            {
+                "oddzial": "technik weterynarii",
+                "miejsca": 60,
+                "Pwybor": 40,
+                "Nwybor": 45
+            },
+            {
+                "oddzial": "technik \u017cywienia i us\u0142ug gastronomicznych",
+                "miejsca": 25,
+                "Pwybor": 13,
+                "Nwybor": 32
+            }
+        ]
+    },
+    {
+        "name": "Technikum nr 2 im. Marii Sk\u0142odowskiej-Curie w P\u0142ocku w ZSZMSC",
+        "classes": [
+            {
+                "oddzial": "Technik automatyk",
+                "miejsca": 15,
+                "Pwybor": 19,
+                "Nwybor": 151
+            },
+            {
+                "oddzial": "Technik elektryk",
+                "miejsca": 45,
+                "Pwybor": 79,
+                "Nwybor": 165
+            },
+            {
+                "oddzial": "Technik informatyk",
+                "miejsca": 30,
+                "Pwybor": 38,
+                "Nwybor": 180
+            },
+            {
+                "oddzial": "Technik mechanik",
+                "miejsca": 15,
+                "Pwybor": 23,
+                "Nwybor": 146
+            },
+            {
+                "oddzial": "Technik pojazd\u00f3w samochodowych",
+                "miejsca": 30,
+                "Pwybor": 44,
+                "Nwybor": 125
+            },
+            {
+                "oddzial": "Technik programista",
+                "miejsca": 30,
+                "Pwybor": 69,
+                "Nwybor": 136
+            },
+            {
+                "oddzial": "Technik teleinformatyk",
+                "miejsca": 15,
+                "Pwybor": 3,
+                "Nwybor": 113
+            }
+        ]
+    },
+    {
+        "name": "Technikum nr 5 w P\u0142ocku w ZSB",
+        "classes": [
+            {
+                "oddzial": "technik budownictwa - patronat Politechniki Warszawskiej , uprawnienia elektryczne, spawanie",
+                "miejsca": 24,
+                "Pwybor": 7,
+                "Nwybor": 64
+            },
+            {
+                "oddzial": "technik dekarstwa - udzia\u0142 w projekcie Polskiego Stowarzyszenia Dekarzy, patronat BUDMAT",
+                "miejsca": 15,
+                "Pwybor": 6,
+                "Nwybor": 44
+            },
+            {
+                "oddzial": "technik geodeta - wsp\u00f3\u0142praca z UW-M w Olsztynie",
+                "miejsca": 15,
+                "Pwybor": 4,
+                "Nwybor": 69
+            },
+            {
+                "oddzial": "technik ochrony \u015brodowiska - patronat Politechniki Warszawskiej, wsp\u00f3\u0142praca z Akademi\u0105 Mazowieck\u0105 ",
+                "miejsca": 30,
+                "Pwybor": 14,
+                "Nwybor": 52
+            },
+            {
+                "oddzial": "technik urz\u0105dze\u0144 i system\u00f3w energetyki odnawialnej - uprawnienia elektryczne,KOMET,Clima-Hit,Junkers",
+                "miejsca": 30,
+                "Pwybor": 9,
+                "Nwybor": 79
+            }
+        ]
+    },
+    {
+        "name": "Technikum nr 3 w P\u0142ocku w ZST",
+        "classes": [
+            {
+                "oddzial": "1Ta technik mechanik, monta\u017c i obs\u0142uga maszyn i urz\u0105dze\u0144 (ze spawaniem)",
+                "miejsca": 17,
+                "Pwybor": 25,
+                "Nwybor": 97
+            },
+            {
+                "oddzial": "1Tc  technik mechanik, u\u017cytkowanie obrabiarek skrawaj\u0105cych CNC (z obs\u0142ug\u0105 suwnic i \u017curawi warsztat.)",
+                "miejsca": 8,
+                "Pwybor": 5,
+                "Nwybor": 56
+            },
+            {
+                "oddzial": "1Tf  technik fotografii i multimedi\u00f3w",
+                "miejsca": 30,
+                "Pwybor": 31,
+                "Nwybor": 97
+            },
+            {
+                "oddzial": "1Tg technik grafiki i poligrafii cyfrowej",
+                "miejsca": 30,
+                "Pwybor": 20,
+                "Nwybor": 96
+            },
+            {
+                "oddzial": "1Ti  technik informatyk",
+                "miejsca": 30,
+                "Pwybor": 12,
+                "Nwybor": 134
+            },
+            {
+                "oddzial": "1Tm technik mechatronik",
+                "miejsca": 30,
+                "Pwybor": 17,
+                "Nwybor": 92
+            },
+            {
+                "oddzial": "1Tr  technik robotyk",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "1Ts  technik spawalnictwa",
+                "miejsca": 30,
+                "Pwybor": 30,
+                "Nwybor": 103
+            },
+            {
+                "oddzial": "1Tw technik mechanik, monta\u017c i obs\u0142uga maszyn i urz\u0105dze\u0144 (ze spawaniem)                         ",
+                "miejsca": 5,
+                "Pwybor": 6,
+                "Nwybor": 28
+            }
+        ]
+    },
+    {
+        "name": "Technikum nr 1 w P\u0142ocku w ZSEK",
+        "classes": [
+            {
+                "oddzial": "1a - technik ekonomista",
+                "miejsca": 30,
+                "Pwybor": 28,
+                "Nwybor": 104
+            },
+            {
+                "oddzial": "1b - technik handlowiec",
+                "miejsca": 30,
+                "Pwybor": 14,
+                "Nwybor": 77
+            },
+            {
+                "oddzial": "1c - technik hotelarstwa",
+                "miejsca": 30,
+                "Pwybor": 13,
+                "Nwybor": 101
+            },
+            {
+                "oddzial": "1d - technik organizacji turystyki",
+                "miejsca": 30,
+                "Pwybor": 11,
+                "Nwybor": 116
+            },
+            {
+                "oddzial": "1e - technik logistyk",
+                "miejsca": 60,
+                "Pwybor": 47,
+                "Nwybor": 157
+            },
+            {
+                "oddzial": "1f - technik eksploatacji port\u00f3w i terminali",
+                "miejsca": 30,
+                "Pwybor": 15,
+                "Nwybor": 69
+            },
+            {
+                "oddzial": "1g - technik rachunkowo\u015bci",
+                "miejsca": 30,
+                "Pwybor": 7,
+                "Nwybor": 68
+            }
+        ]
+    },
+    {
+        "name": "Technikum Nr 4 w P\u0142ocku w ZSUIP",
+        "classes": [
+            {
+                "oddzial": "1 tf - technik us\u0142ug fryzjerskich",
+                "miejsca": 30,
+                "Pwybor": 23,
+                "Nwybor": 63
+            },
+            {
+                "oddzial": "1 tl - technik stylista",
+                "miejsca": 15,
+                "Pwybor": 12,
+                "Nwybor": 64
+            },
+            {
+                "oddzial": "1 tm - technik przemys\u0142u mody",
+                "miejsca": 0,
+                "Pwybor": 1,
+                "Nwybor": 34
+            },
+            {
+                "oddzial": "1 tr - technik reklamy",
+                "miejsca": 30,
+                "Pwybor": 24,
+                "Nwybor": 77
+            },
+            {
+                "oddzial": "1 ts - technik spedytor",
+                "miejsca": 15,
+                "Pwybor": 9,
+                "Nwybor": 81
+            },
+            {
+                "oddzial": "1 tt - technik organizacji turystyki",
+                "miejsca": 15,
+                "Pwybor": 12,
+                "Nwybor": 67
+            },
+            {
+                "oddzial": "1 t\u017c - technik \u017cywienia i us\u0142ug gastronomicznych",
+                "miejsca": 45,
+                "Pwybor": 41,
+                "Nwybor": 91
+            }
+        ]
+    },
+    {
+        "name": "Bran\u017cowa Szko\u0142a I stopnia nr 2 w P\u0142ocku w ZSZMSC",
+        "classes": [
+            {
+                "oddzial": "Automatyk",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "Elektromechanik pojazd\u00f3w samochodowych",
+                "miejsca": 10,
+                "Pwybor": 16,
+                "Nwybor": 43
+            },
+            {
+                "oddzial": "Elektryk",
+                "miejsca": 10,
+                "Pwybor": 8,
+                "Nwybor": 41
+            },
+            {
+                "oddzial": "Mechanik pojazd\u00f3w samochodowych",
+                "miejsca": 10,
+                "Pwybor": 8,
+                "Nwybor": 57
+            }
+        ]
+    },
+    {
+        "name": "Bran\u017cowa Szko\u0142a I stopnia nr 5 w P\u0142ocku w ZSB",
+        "classes": [
+            {
+                "oddzial": "Monter izolacji przemys\u0142owych - spawanie, wsp\u00f3\u0142praca z firmami: IZO- BET, ISOVER",
+                "miejsca": 15,
+                "Pwybor": 3,
+                "Nwybor": 16
+            },
+            {
+                "oddzial": "Monter sieci i instalacji sanitarnych - firmy: WIXWodkan, Clima - Hit, Buderus, Spawanie",
+                "miejsca": 15,
+                "Pwybor": 2,
+                "Nwybor": 14
+            },
+            {
+                "oddzial": "Monter zabudowy i rob\u00f3t wyko\u0144czeniowych w budownictwie  - wsp\u00f3\u0142praca z firmami Knauf i Kreisel",
+                "miejsca": 24,
+                "Pwybor": 6,
+                "Nwybor": 23
+            }
+        ]
+    },
+    {
+        "name": "Bran\u017cowa Szko\u0142a I stopnia nr 3 w P\u0142ocku w ZST",
+        "classes": [
+            {
+                "oddzial": "1a   mechanik - monter maszyn i urz\u0105dze\u0144 (ze spawaniem)",
+                "miejsca": 30,
+                "Pwybor": 20,
+                "Nwybor": 62
+            },
+            {
+                "oddzial": "1b   mechanik pojazd\u00f3w samochodowych (z obs\u0142ug\u0105 i konserwacj\u0105 w\u00f3zk\u00f3w wid\u0142owych)",
+                "miejsca": 20,
+                "Pwybor": 13,
+                "Nwybor": 51
+            },
+            {
+                "oddzial": "1c   operator obrabiarek skrawaj\u0105cych (z obs\u0142ug\u0105 suwnic i \u017curawii)",
+                "miejsca": 10,
+                "Pwybor": 3,
+                "Nwybor": 16
+            },
+            {
+                "oddzial": "1d   \u015blusarz (ze spawaniem)",
+                "miejsca": 20,
+                "Pwybor": 17,
+                "Nwybor": 40
+            },
+            {
+                "oddzial": "1s    stolarz (z elementami ciesielstwa)",
+                "miejsca": 10,
+                "Pwybor": 6,
+                "Nwybor": 16
+            }
+        ]
+    },
+    {
+        "name": "Bran\u017cowa Szko\u0142a I stopnia nr 4 w P\u0142ocku w ZSUIP",
+        "classes": [
+            {
+                "oddzial": "1 c - cukiernik",
+                "miejsca": 14,
+                "Pwybor": 20,
+                "Nwybor": 39
+            },
+            {
+                "oddzial": "1 f - fryzjer",
+                "miejsca": 14,
+                "Pwybor": 14,
+                "Nwybor": 34
+            },
+            {
+                "oddzial": "1 k - kucharz",
+                "miejsca": 30,
+                "Pwybor": 20,
+                "Nwybor": 39
+            },
+            {
+                "oddzial": "1 s - sprzedawca",
+                "miejsca": 0,
+                "Pwybor": 1,
+                "Nwybor": 17
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce P\u0142ockiego Towarzystwa O\u015bwiatowego",
+        "classes": [
+            {
+                "oddzial": "1 H",
+                "miejsca": 22,
+                "Pwybor": 3,
+                "Nwybor": 14
+            },
+            {
+                "oddzial": "1G",
+                "miejsca": 22,
+                "Pwybor": 5,
+                "Nwybor": 13
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce TEB Edukacja w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "Klasa kosmetologiczna",
+                "miejsca": 25,
+                "Pwybor": 16,
+                "Nwybor": 17
+            },
+            {
+                "oddzial": "Klasa kryminalistyczna",
+                "miejsca": 25,
+                "Pwybor": 19,
+                "Nwybor": 26
+            }
+        ]
+    },
+    {
+        "name": "I PRYWATNE LICEUM SZTUK PLASTYCZNYCH IM. W\u0141ADYS\u0141AWA DRAPIEWSKIEGO W P\u0141OCKU",
+        "classes": [
+            {
+                "oddzial": "Klasa I a",
+                "miejsca": 24,
+                "Pwybor": 13,
+                "Nwybor": 24
+            },
+            {
+                "oddzial": "klasa I b",
+                "miejsca": 24,
+                "Pwybor": 20,
+                "Nwybor": 19
+            },
+            {
+                "oddzial": "klasa I c",
+                "miejsca": 22,
+                "Pwybor": 3,
+                "Nwybor": 30
+            },
+            {
+                "oddzial": "Klasa I d",
+                "miejsca": 22,
+                "Pwybor": 19,
+                "Nwybor": 24
+            }
+        ]
+    },
+    {
+        "name": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Zak\u0142adu Doskonalenia Zawodowego w Warszawie Centrum Kszta\u0142cenia w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "kl. I LO",
+                "miejsca": 20,
+                "Pwybor": 0,
+                "Nwybor": 4
+            },
+            {
+                "oddzial": "kl. I LO/D - elementy dietetyki",
+                "miejsca": 20,
+                "Pwybor": 0,
+                "Nwybor": 10
+            },
+            {
+                "oddzial": "kl. I LO/G - elementy grafiki komputerowej",
+                "miejsca": 20,
+                "Pwybor": 1,
+                "Nwybor": 6
+            },
+            {
+                "oddzial": "kl. I LO/K - elementy kosmetyki",
+                "miejsca": 20,
+                "Pwybor": 1,
+                "Nwybor": 11
+            },
+            {
+                "oddzial": "kl. I LO/P  -elementy psychologiczno-pedagogiczne",
+                "miejsca": 20,
+                "Pwybor": 0,
+                "Nwybor": 15
+            }
+        ]
+    },
+    {
+        "name": "Technikum Zak\u0142adu Doskonalenia Zawodowego w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "I Technik hotelarstwa",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "I Technik informatyk z grafik\u0105 3D",
+                "miejsca": 48,
+                "Pwybor": 12,
+                "Nwybor": 40
+            },
+            {
+                "oddzial": "I Technik logistyk",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "I Technik mechanik",
+                "miejsca": 0,
+                "Pwybor": 1,
+                "Nwybor": 18
+            },
+            {
+                "oddzial": "I Technik programista",
+                "miejsca": 24,
+                "Pwybor": 13,
+                "Nwybor": 46
+            },
+            {
+                "oddzial": "I Technik transportu kolejowego",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "I Technik urz\u0105dze\u0144 i system\u00f3w energetyki odnawialnej",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "I Technik us\u0142ug fryzjerskich z elementami kosmetyki ",
+                "miejsca": 72,
+                "Pwybor": 33,
+                "Nwybor": 49
+            },
+            {
+                "oddzial": "I Technik \u017cywienia i us\u0142ug gastronomicznych z elementami hotelarstwa",
+                "miejsca": 24,
+                "Pwybor": 22,
+                "Nwybor": 56
+            }
+        ]
+    },
+    {
+        "name": "Technikum Zak\u0142adu Doskonalenia Zawodowego w Warszawie Centrum Kszta\u0142cenia w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "kl. I TE - technik ekonomista",
+                "miejsca": 20,
+                "Pwybor": 0,
+                "Nwybor": 9
+            },
+            {
+                "oddzial": "kl. I TF/A - technik us\u0142ug fryzjerskich z elementami kosmetyki",
+                "miejsca": 20,
+                "Pwybor": 18,
+                "Nwybor": 15
+            },
+            {
+                "oddzial": "kl. I TF/B - technik us\u0142ug fryzjerskich z elementami kosmetyki",
+                "miejsca": 20,
+                "Pwybor": 1,
+                "Nwybor": 6
+            },
+            {
+                "oddzial": "kl. I TI  - technik informatyk",
+                "miejsca": 20,
+                "Pwybor": 8,
+                "Nwybor": 28
+            },
+            {
+                "oddzial": "kl. I TI ES -  technik informatyk - E-Sport",
+                "miejsca": 20,
+                "Pwybor": 8,
+                "Nwybor": 21
+            },
+            {
+                "oddzial": "kl. I TM - technik mechanik",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "kl. TP - technik programista",
+                "miejsca": 20,
+                "Pwybor": 6,
+                "Nwybor": 22
+            }
+        ]
+    },
+    {
+        "name": "Technikum TEB Edukacja",
+        "classes": [
+            {
+                "oddzial": "TECHNIK FOTOGRAFII I MULTIMEDI\u00d3W (TFiM)",
+                "miejsca": 22,
+                "Pwybor": 22,
+                "Nwybor": 42
+            },
+            {
+                "oddzial": "TECHNIK INFORMATYK i E-SPORT (TIE)",
+                "miejsca": 28,
+                "Pwybor": 25,
+                "Nwybor": 37
+            },
+            {
+                "oddzial": "TECHNIK PROGRAMISTA",
+                "miejsca": 18,
+                "Pwybor": 14,
+                "Nwybor": 36
+            },
+            {
+                "oddzial": "TECHNIK WETERYNARII (TW)",
+                "miejsca": 22,
+                "Pwybor": 13,
+                "Nwybor": 25
+            }
+        ]
+    },
+    {
+        "name": "Bran\u017cowa Szko\u0142a I Stopnia Zak\u0142adu Doskonalenia Zawodowego w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "I fryzjer z elementami kosmetyki",
+                "miejsca": 48,
+                "Pwybor": 9,
+                "Nwybor": 38
+            },
+            {
+                "oddzial": "I kierowca mechanik",
+                "miejsca": 48,
+                "Pwybor": 27,
+                "Nwybor": 31
+            },
+            {
+                "oddzial": "I kucharz",
+                "miejsca": 48,
+                "Pwybor": 11,
+                "Nwybor": 32
+            },
+            {
+                "oddzial": "I sprzedawca",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            }
+        ]
+    },
+    {
+        "name": "Bran\u017cowa Szko\u0142a I Stopnia Zak\u0142adu Doskonalenia Zawodowego w Warszawie Centrum Kszta\u0142cenia w P\u0142ocku",
+        "classes": [
+            {
+                "oddzial": "kl. I F - fryzjer z elementami kosmetyki",
+                "miejsca": 20,
+                "Pwybor": 1,
+                "Nwybor": 19
+            },
+            {
+                "oddzial": "kl. I KM - kierowca mechanik",
+                "miejsca": 0,
+                "Pwybor": 0,
+                "Nwybor": 0
+            },
+            {
+                "oddzial": "kl. I S - sprzedawca ",
+                "miejsca": 20,
+                "Pwybor": 0,
+                "Nwybor": 4
+            },
+            {
+                "oddzial": "kl. I W/C-klasa wielozawodowa",
+                "miejsca": 20,
+                "Pwybor": 5,
+                "Nwybor": 6
+            },
+            {
+                "oddzial": "kl. I W/F - klasa wielozawodowa",
+                "miejsca": 20,
+                "Pwybor": 10,
+                "Nwybor": 7
+            }
+        ]
+    }
+]
